@@ -51,7 +51,7 @@ const rtanCrashImage = new Image();
 rtanCrashImage.src = "./images/rtan_crash.png";
 // (8) 장애물
 const obstacleImage = new Image();
-obstacleImage.src = "./images/obstacle4.png";
+obstacleImage.src = "./images/obstacle1.png";
 /* 박스를 그립니다. */
 
 /** 1-1 르탄이 그리기 */
